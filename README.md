@@ -4,3 +4,4 @@ In this project how to apply random forest regression to make used car prices pr
 1. Data cleaning and EDA
 2. Feature selection
 3. modeling
+4. deployment
